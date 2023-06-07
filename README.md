@@ -5,6 +5,9 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easterlings&layout=compact" />
 </div>
 
+<div >
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Easterlings&show_icons=true" />
+</div>
 
 
 I'm working on:
