@@ -11,7 +11,7 @@
 我是Easterlings，目前还很菜
 
 - 🔭 目前在做：js爬虫、ai图像生成
-- 🌱 正在学习：gradio
+- 🌱 正在学习：gradio、fastapi
 - 😄 有个简单的blog：http://easterlings.fun/
 - 📫 How to reach me: [液态酸橙](https://space.bilibili.com/4453517)
 
