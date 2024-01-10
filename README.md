@@ -11,14 +11,14 @@
 我是Easterlings，目前还很菜
 
 - 🔭 目前在做：js爬虫、ai图像生成
-- 🌱 正在学习：nothing
+- 🌱 正在学习：laravel
 - 😄 有个简单的blog：http://easterlings.fun/
 - 📫 How to reach me: [液态酸橙](https://space.bilibili.com/4453517)
 
 I'm working on:
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-
+![](https://img.shields.io/badge/-PHP-339933?style=flat-square&logo=PHP&logoColor=fff)
 <!--
 **Easterlings/Easterlings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
