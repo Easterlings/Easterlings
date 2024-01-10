@@ -18,7 +18,7 @@
 I'm working on:
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![](https://img.shields.io/badge/-PHP-339933?style=flat-square&logo=PHP&logoColor=fff)
+![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff)
 <!--
 **Easterlings/Easterlings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
